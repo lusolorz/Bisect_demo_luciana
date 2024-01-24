@@ -9,4 +9,5 @@ int main(){
     cout << "Bonjour le Monde";
     coul << "Buggy";
     cout << "Ciao Mondo";
+    cout << "Hallo Welt";
 }
